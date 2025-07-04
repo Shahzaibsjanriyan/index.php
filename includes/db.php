@@ -1,0 +1,1 @@
+<?php $conn = new mysqli('localhost', 'root', '', 'rs_airline_db'); ?>
